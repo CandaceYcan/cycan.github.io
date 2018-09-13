@@ -4,7 +4,7 @@ email: yyx0015@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   易渔的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: https://cycan.github.io # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: 易渔CY
 
