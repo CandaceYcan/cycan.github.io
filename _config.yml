@@ -1,24 +1,24 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: 易渔的博客|Candace Y.'s Blog
+email: yyx0015@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+  易渔的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://yansu.org # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: 易渔CY
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
 filter: 'category'
-recent_num: 20
+recent_num: 25
 
 # Social account
-twitter: suyan404
-weibo: suyan0830
-github: suyan
-instagram: suyan404
-linkedin: suyan404
+twitter: somewise007
+weibo: 000
+github: CandaceYcan
+instagram: 000
+linkedin: 000
 
 # avatar and Favicon
 avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
