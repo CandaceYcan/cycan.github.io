@@ -26,12 +26,12 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
 disqus:
-  shortname: suyan-zh
+  shortname: 00
 
 # google analytics config
 ga:
-  id: UA-54767140-1
-  url: yansu.org
+  id: 00
+  url: https://cycan.github.io/
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
